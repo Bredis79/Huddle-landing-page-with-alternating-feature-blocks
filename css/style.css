@@ -62,6 +62,10 @@ main {
     box-shadow: 0px 3px 10px 0px rgb(224, 223, 223);
 }
 
+.firstBlock header a {
+    text-decoration: none;
+}
+
 .header--btn:hover,
 .header--btn:focus,
 .firstBlock--btn:hover,
@@ -126,6 +130,10 @@ main {
     font-weight: 700;
     font-size: 0.8rem;
     box-shadow: 0px 6px 10px 1px rgb(224 223 223);
+}
+
+.firstBlock__wrap a {
+    text-decoration: none;
 }
 
 .firstBlock img:nth-last-child(1) {
@@ -271,6 +279,10 @@ main {
     box-shadow: 0px 6px 10px 1px rgb(224 223 223);
 
     margin-top: 36px;
+}
+
+.readyBox a {
+    text-decoration: none;
 }
 
 .footer {
